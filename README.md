@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Trevor West**
+# Hi, I'm **Trevor West**
 
 ### **Full-Stack Engineer • AI/ML Systems • Cloud-Native Development**
 
@@ -10,7 +10,7 @@ engineering work.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Full-stack developer with strong experience in **React, Next.js, and
   TypeScript**
@@ -25,7 +25,7 @@ engineering work.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Frontend**\
 React • Next.js • TypeScript • Tailwind CSS • shadcn/ui • Zustand
@@ -45,7 +45,7 @@ Microservices • Event-driven systems • WebSockets • Kafka
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 | Stats | Languages |
 |-------|-----------|
