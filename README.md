@@ -47,7 +47,10 @@ Microservices • Event-driven systems • WebSockets • Kafka
 
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=logiica&show_icons=true&theme=tokyonight" width="430"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logiica&layout=compact&theme=tokyonight"/> |
+| Stats | Languages |
+|-------|-----------|
+| ![](https://github-readme-stats.vercel.app/api?username=logiica&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=logiica&layout=compact&theme=tokyonight) |
+
 
 
 
