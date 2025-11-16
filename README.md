@@ -46,19 +46,9 @@ Microservices • Event-driven systems • WebSockets • Kafka
 ---
 
 ## 📊 GitHub Stats
+| GitHub Stats | Most Used Languages |
+|--------------|---------------------|
+| <img src="https://gh-readme-profile.vercel.app/api?username=logiica&show_icons=true&theme=tokyonight" width="430"/> | <img src="https://gh-readme-profile.vercel.app/api/top-langs/?username=logiica&layout=compact&theme=tokyonight" width="430"/> |
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-  <img 
-    src="https://gh-readme-profile.vercel.app/api?username=logiica&show_icons=true&theme=tokyonight" 
-    style="width: 48%;" 
-  />
-
-  <img 
-    src="https://gh-readme-profile.vercel.app/api/top-langs/?username=logiica&layout=compact&theme=tokyonight" 
-    style="width: 48%;" 
-  />
-
-</div>
 
 
