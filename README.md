@@ -67,9 +67,7 @@ Next.js UI with WebSockets, server-sent events, and cloud event streams. Display
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_USERNAME` with your GitHub username
-
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=logiica&show_icons=true&theme=tokyonight)\
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logiica&layout=compact&theme=tokyonight)
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=logiica&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logiica&layout=compact&theme=tokyonight" height="180" />
+</div>
