@@ -45,29 +45,9 @@ Microservices • Event-driven systems • WebSockets • Kafka
 
 ---
 
-## 🏗️ Featured Work
-
-### 🔹 Intelligent RAG Knowledge Assistant
-
-End-to-end Retrieval-Augmented Generation system with pgvector, multi-step retrieval chains, and FastAPI. Includes optimized embeddings, metadata filtering, and context ranking for high-accuracy responses.
-
-### 🔹 AI Agent Workflow Orchestration
-
-Designed autonomous agent pipelines leveraging LLM reasoning loops, tool calling, vector search, and structured planning. Integrated with cloud services for task execution, data retrieval, and scalable orchestration.
-
-### 🔹 Cloud-Native Distributed Services
-
-Architected high-availability services on AWS using ECS, Lambda, S3, API Gateway, and event-driven patterns. Implemented observability with CloudWatch, metrics, tracing, and automated CI/CD pipelines.
-
-### 🔹 Real-Time System Monitoring Dashboard
-
-Next.js UI with WebSockets, server-sent events, and cloud event streams. Displays live system metrics, AI agent actions, and backend performance insights across distributed services.
-
----
-
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=logiica&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logiica&layout=compact&theme=tokyonight" height="180" />
+<div align="center" style="display: flex; gap: 15px; justify-content: center;">
+  <img src="https://gh-readme-profile.vercel.app/api?username=logiica&show_icons=true&theme=tokyonight" width="420" />
+  <img src="https://gh-readme-profile.vercel.app/api/top-langs/?username=logiica&layout=compact&theme=tokyonight" width="420" />
 </div>
